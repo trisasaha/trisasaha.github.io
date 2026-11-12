@@ -1,0 +1,7 @@
+[
+  {"habit":"Water","amount":6,"unit":"cups","date":"2026-11-03"},
+  {"habit":"Sleep","amount":7.5,"unit":"hrs","date":"2026-11-02"},
+  {"habit":"Exercise","amount":30,"unit":"min","date":"2026-11-02"},
+  {"habit":"Water","amount":8,"unit":"cups","date":"2026-11-02"},
+  {"habit":"Sleep","amount":6,"unit":"hrs","date":"2026-11-01"}
+]
